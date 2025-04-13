@@ -9,5 +9,6 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Warrior Fit](docs/poem-1868.mp3)
 - [Don’t Give Up On Fitness, Tough Words And Reminders For Tough People](docs/poem-1867.mp3)
 
