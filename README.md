@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Building A Teaching Agent; Or, Educational Principles for Clear Thinking and Fact-Based Education](docs/poem-1871.mp3)
 - [Nordhouse Dunes Fitness](docs/poem-1870.mp3)
 - [Leurolese; And, May The Artificial Intelligence Please Step Up With Rustling All The Jimmies](docs/poem-1869.mp3)
 - [Warrior Fit](docs/poem-1868.mp3)
