@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Crimes Against Humanity Committed Through The Classroom; With A Note To All The World's Students](docs/poem-1873.mp3)
 - [Sub Specie Aeternitatis](docs/poem-1872.mp3)
 - [Building A Teaching Agent; Or, Educational Principles for Clear Thinking and Fact-Based Education](docs/poem-1871.mp3)
 - [Nordhouse Dunes Fitness](docs/poem-1870.mp3)
