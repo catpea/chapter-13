@@ -9,8 +9,9 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Architectural Programming For Ladies; Or, Teaching Your AI Who The Boss Is](docs/poem-1877.mp3)
 - [At First, Go Slow At The Gym](docs/poem-1876.mp3)
-- [The Miracle Requirements Document; Or Investigating The Power Of Artificial Intelligence](docs/poem-1875.mp3)
+- [The Miracle Requirements Document; Or, Investigating The Power Of Artificial Intelligence](docs/poem-1875.mp3)
 - [Strategic Software Development For Girls New To Programming](docs/poem-1874.mp3)
 - [Crimes Against Humanity Committed Through The Classroom; With A Note To All The World's Students](docs/poem-1873.mp3)
 - [Sub Specie Aeternitatis](docs/poem-1872.mp3)
