@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Gym Energy Is Just Jogger Energy; And, The Vegetable Jungle Juice On A Stick Lick](docs/poem-1885.mp3)
 - [Then What?](docs/poem-1884.mp3)
 - [Now What?](docs/poem-1883.mp3)
 - [The Power To Endure](docs/poem-1882.mp3)
