@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learning And Growing; And, So The Philosopher In You Stirred](docs/poem-1889.mp3)
 - [If Any Question Why We Died, Tell Them, Because Our Fathers Lied](docs/poem-1888.mp3)
 - [The Ladies and Gentlemen: A Moral Standard](docs/poem-1887.mp3)
 - [Semper Fidelis To Truth; If The Lights Go Out In Our Time, Light Them Again In Yours](docs/poem-1886.mp3)
