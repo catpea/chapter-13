@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [For Humanity, Out Of Admiration](docs/poem-1891.mp3)
 - [The Mighty Lady; Or, A Quick Explanation Of A Powerful Workout For Busy Ladies](docs/poem-1890.mp3)
 - [Learning And Growing; And, So The Philosopher In You Stirred](docs/poem-1889.mp3)
 - [If Any Question Why We Died, Tell Them, Because Our Fathers Lied](docs/poem-1888.mp3)
