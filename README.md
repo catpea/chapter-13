@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [44 Days Until Summer, Gyms Are Getting Warmer](docs/poem-1893.mp3)
 - [Transcendence; Or, Philosophy In Not Optional, And Neither Is Greatness](docs/poem-1892.mp3)
 - [For Humanity, Out Of Admiration](docs/poem-1891.mp3)
 - [The Mighty Lady; Or, A Quick Explanation Of A Powerful Workout For Busy Ladies](docs/poem-1890.mp3)
