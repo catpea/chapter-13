@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Bitten By A Mosquito Already? That May Be An Indication Of A Serious Condition!](docs/poem-1898.mp3)
 - [Beyond Vibe Coding](docs/poem-1897.mp3)
 - [Addressing Limitations Of Standardized Education And Traditional Schools](docs/poem-1896.mp3)
 - [They Are The Ones Who Sold The World](docs/poem-1895.mp3)
