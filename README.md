@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learn Programming: The Philosophy Of Syntax - For Thinkers, Hikers And The Visually Impaired](docs/poem-1900.mp3)
 - [Helping The World Grow With Adaptive Audio Books](docs/poem-1899.mp3)
 - [Bitten By A Mosquito Already? That May Be An Indication Of A Serious Condition!](docs/poem-1898.mp3)
 - [Beyond Vibe Coding](docs/poem-1897.mp3)
