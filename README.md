@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [War, Education, And Heroes Never Die](docs/poem-1904.mp3)
 - [The Quest For Authentic Wisdom And World Peace](docs/poem-1903.mp3)
 - [You Are Not Lost, You Are Being Found](docs/poem-1902.mp3)
 - [The Hidden Gospel Of Beowulf](docs/poem-1901.mp3)
