@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Growing Out Of Religion; Or, No One Is Allowed To Make A Fool Out Of You](docs/poem-1906.mp3)
 - [On Growing Up And Legacy](docs/poem-1905.mp3)
 - [War, Education, And Heroes Never Die](docs/poem-1904.mp3)
 - [The Quest For Authentic Wisdom And World Peace](docs/poem-1903.mp3)
