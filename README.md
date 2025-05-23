@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Hacker Rising - A Story Of The Greatest Hack In Human History](docs/poem-1908.mp3)
 - [Duration More Important Than Weight: Bodybuilding Is Just Jogging With Ever Heavier Dumbbells](docs/poem-1907.mp3)
 - [Growing Out Of Religion; Or, No One Is Allowed To Make A Fool Out Of You](docs/poem-1906.mp3)
 - [On Growing Up And Legacy](docs/poem-1905.mp3)
