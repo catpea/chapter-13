@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Great Gymnasium](docs/poem-1912.mp3)
 - [They Are Here; Or, Getting Along With Thinking Machines](docs/poem-1911.mp3)
 - [AI Helps You Easily Put Your Foot In JavaScript's Door](docs/poem-1910.mp3)
 - [Strange Programming Days; Or, The Interdimensional Alarm Clock](docs/poem-1909.mp3)
