@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Genius! Or, The Dunces Can Easily Help Themselves, But Geniuses Are Very Nearly Beyond All Hope](docs/poem-1915.mp3)
 - [The Interdimensional Alarm Clock, And A Short Note On Digital Product Creation](docs/poem-1914.mp3)
 - [How Artificial Intelligence Just Grabbed Me By The Button](docs/poem-1913.mp3)
 - [The Great Gymnasium](docs/poem-1912.mp3)
