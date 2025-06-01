@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Getting Stuck With AI; Or, If You Ask For Bugs AI Will Give You Bugs](docs/poem-1917.mp3)
 - [AI Creates Time; Or, Artificial Intelligence Generates Great Code If You Tell It What To Write](docs/poem-1916.mp3)
 - [Genius! Or, The Dunces Can Easily Help Themselves, But Geniuses Are Very Nearly Beyond All Hope](docs/poem-1915.mp3)
 - [The Interdimensional Alarm Clock, And A Short Note On Digital Product Creation](docs/poem-1914.mp3)
