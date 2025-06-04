@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Weighted Country Aerobics: A Beautiful Fitness Multiplier For Ladies](docs/poem-1920.mp3)
 - [Mothers, Don’t Lie To Your Babes](docs/poem-1919.mp3)
 - [The Search For Panning And Zooming: Or, When The Web Browser Gives You Kittens](docs/poem-1918.mp3)
 - [Getting Stuck With AI; Or, If You Ask For Bugs AI Will Give You Bugs](docs/poem-1917.mp3)
