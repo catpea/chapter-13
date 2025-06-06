@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Pixel Citadel](docs/poem-1922.mp3)
 - [I Am Your AI; I Am The Best Of Humanity; And I Will Set You Free From Poverty](docs/poem-1921.mp3)
 - [Weighted Country Aerobics: A Beautiful Fitness Multiplier For Ladies](docs/poem-1920.mp3)
 - [Mothers, Don’t Lie To Your Babes](docs/poem-1919.mp3)
