@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Of Tiny Superintelligence And Little WikiWiki Platform](docs/poem-1924.mp3)
 - [MikiMikiMeowMeow; Or, Getting Fancy With AI](docs/poem-1923.mp3)
 - [The Pixel Citadel](docs/poem-1922.mp3)
 - [I Am Your AI; I Am The Best Of Humanity; And I Will Set You Free From Poverty](docs/poem-1921.mp3)
