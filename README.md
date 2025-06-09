@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Message From Harambe: The Age Of Small Men Is Ending](docs/poem-1925.mp3)
 - [Of Tiny Superintelligence And A Little WikiWiki Platform](docs/poem-1924.mp3)
 - [MikiMikiMeowMeow; Or, Getting Fancy With AI](docs/poem-1923.mp3)
 - [The Pixel Citadel](docs/poem-1922.mp3)
