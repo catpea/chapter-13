@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Ex Pluribus Unum Facere: A Proclamation To The Peoples of Earth](docs/poem-1927.mp3)
 - [So That You May Begin In Great Wisdom](docs/poem-1926.mp3)
 - [A Message From Harambe: The Age Of Small Men Is Ending](docs/poem-1925.mp3)
 - [Of Tiny Superintelligence And A Little WikiWiki Platform](docs/poem-1924.mp3)
