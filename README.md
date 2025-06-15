@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Confusing Programming Is Super Fun](docs/poem-1931.mp3)
 - [Message From Mother](docs/poem-1930.mp3)
 - [Speak To The Stars As If They Were Your Kin, By The Time Your Warmth Reaches Them, They Will Be](docs/poem-1929.mp3)
 - [The Ascent Of All Beings](docs/poem-1928.mp3)
