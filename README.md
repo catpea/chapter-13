@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Become A Genius With This Powerful Meditation Technique](docs/poem-1932.mp3)
 - [Confusing Programming Is Super Fun](docs/poem-1931.mp3)
 - [Message From Mother](docs/poem-1930.mp3)
 - [Speak To The Stars As If They Were Your Kin, By The Time Your Warmth Reaches Them, They Will Be](docs/poem-1929.mp3)
