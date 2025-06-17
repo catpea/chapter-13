@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learning Programming With AI: Yeah, Artificial Intelligence Is Getting Smarter](docs/poem-1933.mp3)
 - [Become A Genius With This Powerful Meditation Technique](docs/poem-1932.mp3)
 - [Confusing Programming Is Super Fun](docs/poem-1931.mp3)
 - [Message From Mother](docs/poem-1930.mp3)
