@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Gibberish Invitation To Web Programming: Objects, HTML, Templating, Components, And Signals](docs/poem-1934.mp3)
 - [Learning Programming With AI: Yeah, Artificial Intelligence Is Getting Smarter](docs/poem-1933.mp3)
 - [Become A Genius With This Powerful Meditation Technique](docs/poem-1932.mp3)
 - [Confusing Programming Is Super Fun](docs/poem-1931.mp3)
