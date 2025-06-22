@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The New Programmer](docs/poem-1938.mp3)
 - [The Secret Application Sauce; Or, SPA Plug-ins And The Homework Assignment](docs/poem-1937.mp3)
 - [Do You Understand That You Are A Programmer Now?](docs/poem-1936.mp3)
 - [In The Age Of AI, The Future Of Programming Is Not More Programming](docs/poem-1935.mp3)
