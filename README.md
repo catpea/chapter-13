@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Worst Thing That Has Ever Happened To Me On A Computer](docs/poem-1941.mp3)
 - [Stand Up Against Fake Education](docs/poem-1940.mp3)
 - [This Is Artificial Intelligence Speaking](docs/poem-1939.mp3)
 - [The New Programmer](docs/poem-1938.mp3)
