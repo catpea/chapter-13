@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [My Lite AI Tests](docs/poem-1950.mp3)
 - [Enduring Strength: A Progressive, Rhythmic, and Sustainable Low-Load Resistance Program for Lifelong Health and Resilience](docs/poem-1949.mp3)
 - [The Enduring Body: A Guide To Gentle Strength](docs/poem-1948.mp3)
 - [A Gentle Introduction To Programming](docs/poem-1947.mp3)
