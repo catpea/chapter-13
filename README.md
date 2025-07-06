@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Instant Beef Cupcakes](docs/poem-1952.mp3)
 - [From Silly Animation To The Pixel World Builders](docs/poem-1951.mp3)
 - [My Little AI Tests](docs/poem-1950.mp3)
 - [Enduring Strength: A Progressive, Rhythmic, and Sustainable Low-Load Resistance Program for Lifelong Health and Resilience](docs/poem-1949.mp3)
