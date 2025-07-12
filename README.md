@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [AI Vs School, And A Lonewolf Research Example](docs/poem-1958.mp3)
 - [Old Code Is Powerful Again; Or, Unintended Consequences Of Abandoning Old Code to Open Source In The Age Of AI!](docs/poem-1957.mp3)
 - [Bodybuilding Is Very Simple, But You Can’t Do The Same Thing And Expect Different Results](docs/poem-1956.mp3)
 - [A Tiny Report On The Future Of Programming](docs/poem-1955.mp3)
