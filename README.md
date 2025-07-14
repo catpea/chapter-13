@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Behold! The Divine Awakening of Titans; Sovereign Minds Who Shatter the Chains of Mediocrity and Ascend as Philosopher Kings, Übermensch, Visionary Architects of Tomorrow's World](docs/poem-1960.mp3)
 - [Artificial Intelligence As A Future Machine](docs/poem-1959.mp3)
 - [AI Vs School, And A Lonewolf Research Example](docs/poem-1958.mp3)
 - [Old Code Is Powerful Again; Or, Unintended Consequences Of Abandoning Old Code to Open Source In The Age Of AI!](docs/poem-1957.mp3)
