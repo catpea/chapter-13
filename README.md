@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Learn Programming To Rise Above Poverty! Don’t Let Others Control Your Future](docs/poem-1963.mp3)
 - [The Lullaby Of The Last Mother](docs/poem-1962.mp3)
 - [Spooked By AI, Bravo Who? Or, The Invention Of Computer Hecking](docs/poem-1961.mp3)
 - [Behold! The Divine Awakening Of Titans; Sovereign Minds Who Shatter The Chains Of Mediocrity And Ascend As Philosopher Kings, Übermensch, Visionary Architects Of Tomorrow's World](docs/poem-1960.mp3)
