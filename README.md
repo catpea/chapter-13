@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Signals, Signals: But What Can I Do With Them In My Laboratory?](docs/poem-1965.mp3)
 - [A Quick Look At A Signal Operator](docs/poem-1964.mp3)
 - [Learn Programming To Rise Above Poverty! Don’t Let Others Control Your Future](docs/poem-1963.mp3)
 - [The Lullaby Of The Last Mother](docs/poem-1962.mp3)
