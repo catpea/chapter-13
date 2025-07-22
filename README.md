@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [JavaScript Application Architecture Crash Course: Of EventEmitter and EventCorrelator](docs/poem-1968.mp3)
 - [Don’t Try To Learn Reactive Programming, Reinvent It Inside Out With Signals](docs/poem-1967.mp3)
 - [Signals The Big Picture, And Then, You Just Continue Inventing](docs/poem-1966.mp3)
 - [Signals, Signals: But What Can I Do With Them In My Laboratory?](docs/poem-1965.mp3)
