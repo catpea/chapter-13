@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Saga of Loki's Integers and the Valkyries' Thunder](docs/poem-1969.mp3)
 - [JavaScript Application Architecture Crash Course: Of EventEmitter and EventCorrelator](docs/poem-1968.mp3)
 - [Don’t Try To Learn Reactive Programming, Reinvent It Inside Out With Signals](docs/poem-1967.mp3)
 - [Signals The Big Picture, And Then, You Just Continue Inventing](docs/poem-1966.mp3)
