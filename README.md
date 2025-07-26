@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Rising Up](docs/poem-1972.mp3)
 - [Not With A Whimper](docs/poem-1971.mp3)
 - [Application Design: You Will Lose Control, So Give Yourself Weapons First](docs/poem-1970.mp3)
 - [The Saga of Loki's Integers and the Valkyries' Thunder](docs/poem-1969.mp3)
