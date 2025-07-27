@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Quest For Wisdom: You Have A Great Responsibility](docs/poem-1973.mp3)
 - [Rising Up](docs/poem-1972.mp3)
 - [Not With A Whimper](docs/poem-1971.mp3)
 - [Application Design: You Will Lose Control, So Give Yourself Weapons First](docs/poem-1970.mp3)
