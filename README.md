@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Library And Poverty; Or, Protecting Your World From Loss Of Wisdom And Brilliance](docs/poem-1974.mp3)
 - [The Quest For Wisdom: You Have A Great Responsibility](docs/poem-1973.mp3)
 - [Rising Up](docs/poem-1972.mp3)
 - [Not With A Whimper](docs/poem-1971.mp3)
