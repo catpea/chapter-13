@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [If by Rudyard Kipling: A Reading And A Call To Greatness](docs/poem-1976.mp3)
 - [I Was There On The Balcony, But I Remembered My Soul Too Late](docs/poem-1975.mp3)
 - [Library And Poverty; Or, Protecting Your World From Loss Of Wisdom And Brilliance](docs/poem-1974.mp3)
 - [The Quest For Wisdom: You Have A Great Responsibility](docs/poem-1973.mp3)
