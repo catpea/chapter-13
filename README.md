@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [World In Trouble: A Call To Young Philosophers](docs/poem-1978.mp3)
 - [Focus On Results, Not Appearance Or Labels](docs/poem-1977.mp3)
 - [If by Rudyard Kipling: A Reading And A Call To Greatness](docs/poem-1976.mp3)
 - [I Was There On The Balcony, But I Remembered My Soul Too Late](docs/poem-1975.mp3)
