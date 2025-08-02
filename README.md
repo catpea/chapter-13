@@ -9,7 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
-- [Wild Wild Days; Or, The Spooky Paths Of Artificial Intelligennce](docs/poem-1979.mp3)
+- [Wild Wild Days; Or, The Spooky Paths Of Artificial Intelligence](docs/poem-1979.mp3)
 - [World In Trouble: A Call To Young Philosophers](docs/poem-1978.mp3)
 - [Focus On Results, Not Appearance Or Labels](docs/poem-1977.mp3)
 - [If by Rudyard Kipling: A Reading And A Call To Greatness](docs/poem-1976.mp3)
