@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Color Mlue; Or The Reactive JavaScript Turtle](docs/poem-1982.mp3)
 - [High School: JavaScript Is The Way Out](docs/poem-1981.mp3)
 - [Holy Guacamole: Learn JavaScript Today!](docs/poem-1980.mp3)
 - [Wild Wild Days; Or, The Spooky Paths Of Artificial Intelligence](docs/poem-1979.mp3)
