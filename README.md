@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Reactive Array Yikies!](docs/poem-1984.mp3)
 - [Intergalactic JavaScript](docs/poem-1983.mp3)
 - [Color Mlue; Or The Reactive JavaScript Turtle](docs/poem-1982.mp3)
 - [High School: JavaScript Is The Way Out](docs/poem-1981.mp3)
