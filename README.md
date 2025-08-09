@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Did Not Recant - Archivum Secretum Apostolicum Vaticanum](docs/poem-1986.mp3)
 - [How Were We Supposed To Know?](docs/poem-1985.mp3)
 - [Reactive Array Yikies!](docs/poem-1984.mp3)
 - [Intergalactic JavaScript](docs/poem-1983.mp3)
