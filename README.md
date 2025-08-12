@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Mommy, I Don't Like School](docs/poem-1990.mp3)
 - [JS-DQD; Or, God Mode Interestato Potato?](docs/poem-1989.mp3)
 - [The Emergence Of A Complete JavaScript Module: The Terrifyingly Swift End Of Make-Believe Education](docs/poem-1988.mp3)
 - [Grant Your Children The Power Of Clarity And Reason](docs/poem-1987.mp3)
