@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [From Wisdom](docs/poem-1994.mp3)
 - [No More Homework, Mother!](docs/poem-1993.mp3)
 - [The Inventing Of A Product; Or, Growing Up In The Age of Artificial Intelligence](docs/poem-1992.mp3)
 - [Humanity Made Three Tiny Steps Before It Fell](docs/poem-1991.mp3)
