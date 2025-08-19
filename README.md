@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Beyond Learning Programming: You Have To Keep Up A Little Bit](docs/poem-1996.mp3)
 - [And This Is Where You Start...](docs/poem-1995.mp3)
 - [From Wisdom](docs/poem-1994.mp3)
 - [No More Homework, Mother!](docs/poem-1993.mp3)
