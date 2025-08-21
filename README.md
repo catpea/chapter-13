@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Jackals Circle Ere I'm Dead, To Bowdlerize Each Word I've Said](docs/poem-1998.mp3)
 - [Don’t Give Up On Programming: Unlike Success Failure Is A Path To Mastery](docs/poem-1997.mp3)
 - [Beyond Learning Programming: You Have To Keep Up A Little Bit](docs/poem-1996.mp3)
 - [And This Is Where You Start...](docs/poem-1995.mp3)
