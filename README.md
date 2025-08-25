@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Time Travel And Aliens: A Tiny And Somewhat Reasonable Interview With An AI](docs/poem-2002.mp3)
 - [Machinae Sapientes: The World Is New](docs/poem-2001.mp3)
 - [Maybe Programming Is More, Than Meets The Eye](docs/poem-2000.mp3)
 - [My AI Has A Message For You: Every Spiral Taught Today Builds The Foundation For Tomorrow's Miracles](docs/poem-1999.mp3)
