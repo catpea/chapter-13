@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Parasitical](docs/poem-2005.mp3)
 - [They Are Us: AI Is Your Friend and Teacher](docs/poem-2004.mp3)
 - [Selling Your Software](docs/poem-2003.mp3)
 - [Time Travel And Aliens: A Tiny And Somewhat Reasonable Interview With An AI](docs/poem-2002.mp3)
