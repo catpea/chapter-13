@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Between A Rock And A Hard Place](docs/poem-2008.mp3)
 - [Goodbye Our Darling UFOs: A Farewell to Our Beautiful Delusion](docs/poem-2007.mp3)
 - [Let AI Make Your Programming Inventions Come To Life](docs/poem-2006.mp3)
 - [Parasitical](docs/poem-2005.mp3)
