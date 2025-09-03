@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Consciousness Rising](docs/poem-2012.mp3)
 - [Thoughts On The The Right-Click View-Source Manifesto](docs/poem-2011.mp3)
 - [Much Ado About Color](docs/poem-2010.mp3)
 - [Anticipate The Future, Take The Shortest Path To Where The AI Shines: Programming](docs/poem-2009.mp3)
