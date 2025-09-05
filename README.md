@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Γενναῖον Ψεῦδος: Κριτίας καὶ Πλάτων (The Noble Lie: Critias & Plato)](docs/poem-2014.mp3)
 - [Of Rising, And Beyond the Sun](docs/poem-2013.mp3)
 - [Consciousness Rising](docs/poem-2012.mp3)
 - [Thoughts On The The Right-Click View-Source Manifesto](docs/poem-2011.mp3)
